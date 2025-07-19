@@ -8,6 +8,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Directory Structure](#directory-structure)
 - [Data Sources](#data-sources)
 - [Analytical Methods](#analytical-methods)
 - [Key Findings](#key-findings)
@@ -23,6 +24,25 @@
 ## Project Overview
 
 This project provides an in-depth analysis of the Indian Premier League (IPL) final matches from the 2020 to 2025 seasons. The primary goal is to extract meaningful insights and trends related to team performance, player statistics, and match outcomes. A user-friendly interface with dropdown navigation enables easy access to individual match analyses, allowing users to quickly compare and contrast different championship games.
+
+## Directory Structure
+Directory structure:
+└── daxgupta-ipl_final_showdown_analysis/
+    ├── README.md
+    ├── 2020_Final_DC_vs_MI.ipynb
+    ├── 2021_Final_CSK_vs_KKR.ipynb
+    ├── 2022_Final_GT_vs_RR.ipynb
+    ├── 2023_Final_GT_vs_CSK.ipynb
+    ├── 2024_Final_KKR_vs_SRH.ipynb
+    ├── 2025_Final_RCB_vs_PBKS.ipynb
+    ├── convertor.ipynb
+    └── HTML_files/
+        ├── 2020_Final_DC_vs_MI.html
+        ├── 2021_Final_CSK_vs_KKR.html
+        ├── 2022_Final_GT_vs_RR.html
+        ├── 2023_Final_GT_vs_CSK.html
+        ├── 2024_Final_KKR_vs_SRH.html
+        └── 2025_Final_RCB_vs_PBKS.html
 
 ## Data Sources
 
@@ -45,8 +65,8 @@ The choice of these methods was driven by the need to provide a comprehensive ov
 
 ## Key Findings
 
-*   **Mumbai Indians Dominated:** Consistently strong performance in the finals, particularly in the 2020 and 2024 seasons.
-*   **Impact of Key Players:**  Jasprit Bumrah's bowling performance was a significant factor in Mumbai Indians' victories. Specific batsmen also showed consistent performance across multiple finals.
+*   **Chennai Super Kings Dominated:** Consistently strong performance in the finals, particularly in the 2021 and 2023 seasons.
+*   **Impact of Key Players:**  Ravindra Jadeja's bowling and batting performance was a significant factor in Chennai Super Kings victories. Specific batsmen also showed consistent performance across multiple finals.
 *   **Toss Advantage:** Winning the toss correlated with a higher probability of winning the match, although the effect varied across seasons.
 *   **Home Advantage:** Teams playing at their home venue in the final had a slight advantage, although this was not statistically significant across all seasons.
 
@@ -59,7 +79,7 @@ The choice of these methods was driven by the need to provide a comprehensive ov
     | 2022 | Gujarat Titans | Hardik Pandya |
     | 2023 | Chennai Super Kings | Devon Conway |
     | 2024 | Kolkata Knight Riders | Andre Russell |
-    | 2025 | Rajasthan Royals | Trent Boult |
+    | 2025 | Royal Challengers Bengaluru | Krunal Pandaya |
 
 ## Setup and Execution
 
