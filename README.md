@@ -103,6 +103,9 @@ The choice of these methods was driven by the need to provide a comprehensive ov
         > *If the project includes a user interface, describe how to launch and navigate it.*
     > *For example: "Run `python app.py` to launch the user interface. Use the dropdown menu to select the IPL final you wish to analyze."*
 
+### Run The Analysis 🚀
+
+
 ## Future Research
 
 *   **Extend the Analysis:** Include more IPL seasons (e.g., from the beginning of IPL) to identify long-term trends.
@@ -115,9 +118,9 @@ The choice of these methods was driven by the need to provide a comprehensive ov
 ## Contributing🤝 
 Contributions are welcome! If you have suggestions for new analyses, improvements to existing ones, or find any issues, please feel free to:
 
-  1.Fork the repository.
-  2.Create a new branch (git checkout -b feature/your-feature-name).
-  3.Make your changes.
-  4.Commit your changes (git commit -m 'Add new feature').
-  5.Push to the branch (git push origin feature/your-feature-name).
-  6.Open a Pull Request.
+  1.Fork the repository.<br>
+  2.Create a new branch (git checkout -b feature/your-feature-name).<br>
+  3.Make your changes.<br>
+  4.Commit your changes (git commit -m 'Add new feature').<br>
+  5.Push to the branch (git push origin feature/your-feature-name).<br>
+  6.Open a Pull Request.<br>
