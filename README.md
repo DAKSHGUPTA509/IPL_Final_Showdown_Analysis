@@ -104,16 +104,27 @@ The choice of these methods was driven by the need to provide a comprehensive ov
     > *For example: "Run `python app.py` to launch the user interface. Use the dropdown menu to select the IPL final you wish to analyze."*
 
 ### Run The Analysis 🚀
-<h2 class="text-2xl sm:text-3xl font-bold text-gray-800 mb-4 rounded-md">
-                Option 1: View HTML Files <span class="text-sm font-normal text-gray-500">(Recommended for quick view)</span>
-            </h2>
-            <p class="text-gray-700 mb-4">
-                Simply navigate to the <span class="font-semibold text-blue-600">HTML_files/</span> directory and open any <span class="font-semibold text-blue-600">.html</span> file in your web browser. For example, to view the 2020 final analysis:
-            </p>
-            <div class="code-block">
-                <!-- HTML comment: Example path for viewing HTML file -->
-                HTML_files/2020_Final_DC_vs_MI.html
-            </div>
+<pre>
+  Option 1: View HTML Files (Recommended for quick view)
+      Simply navigate to the HTML_files/ directory and open any .html file in your web browser. For example, to view the 2020 final analysis:
+
+      HTML_files/2020_Final_DC_vs_MI.html
+
+  Option 2: Run Jupyter Notebooks
+    Clone this repository to your local machine:
+    
+    git clone https://github.com/daxgupta/ipl_final_showdown_analysis.git
+    
+    Navigate into the cloned directory:
+    
+    cd ipl_final_showdown_analysis
+    
+    Start the Jupyter Notebook server:
+    
+    jupyter notebook
+    
+    Your web browser will open, displaying the Jupyter interface. From there, you can click on any .ipynb file (e.g., 2020_Final_DC_vs_MI.ipynb) to open and interact with the analysis.
+  </pre>
 
 ## Future Research
 
