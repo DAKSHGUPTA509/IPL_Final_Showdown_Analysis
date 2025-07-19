@@ -114,7 +114,6 @@ You can install Jupyter Notebook via pip:
     cd IPL_Final_Showdown_Analysis
         > *If the project includes a user interface, describe how to launch and navigate it.*
     > *For example: "Run `python app.py` to launch the user interface. Use the dropdown menu to select the IPL final you wish to analyze."*
-
 <br>
 
 ### Running the Analysis 🚀
