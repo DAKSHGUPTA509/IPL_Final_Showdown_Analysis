@@ -115,10 +115,12 @@ You can install Jupyter Notebook via pip:
         > *If the project includes a user interface, describe how to launch and navigate it.*
     > *For example: "Run `python app.py` to launch the user interface. Use the dropdown menu to select the IPL final you wish to analyze."*
 
-### Run The Analysis 🚀
+<br>
+
+### Running the Analysis 🚀
 
 **Option 1: View through the Website (Recommended for live view)**<br>
-See the website through this link to get the deeper knowladge: <link href="https://iplfinalshowdownanalysis-ul4to.sevalla.page/">https://iplfinalshowdownanalysis.page/</link>
+See the website through this link to get the deeper knowladge: <link href="https://iplfinalshowdownanalysis-ul4to.sevalla.page/">https://iplfinalshowdownanalysis-ul4to.sevalla.page/</link>
 
 **Option 2: View HTML Files (Recommended for quick view)**<br>
       Simply navigate to the `HTML_files` directory and open any `.html` file in your web browser.For example, to view the 2020 final analysis:
