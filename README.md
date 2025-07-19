@@ -110,7 +110,7 @@ The choice of these methods was driven by the need to provide a comprehensive ov
 *   **Impact of Auction Strategies:** Analyze the correlation between team composition resulting from auctions and their performance in the finals.
 
 
-##Contributing 🤝 
+## Contributing🤝 
 Contributions are welcome! If you have suggestions for new analyses, improvements to existing ones, or find any issues, please feel free to:
 
 1.Fork the repository.
