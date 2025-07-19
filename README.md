@@ -5,6 +5,8 @@
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
+Link to the Live Deployed Site: https://iplfinalshowdownanalysis-ul4to.sevalla.page/
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -147,7 +149,7 @@ See the website through this link to get the deeper knowladge: <link href="https
     </li>
 </ol>
 
-## Future Research
+## Future Research🔬
 
 *   **Extend the Analysis:** Include more IPL seasons (e.g., from the beginning of IPL) to identify long-term trends.
 *   **Advanced Machine Learning Models:** Develop predictive models to forecast match outcomes based on team and player statistics.
@@ -166,3 +168,8 @@ Contributions are welcome! If you have suggestions for new analyses, improvement
   <li>Push to the branch (git push origin feature/your-feature-name).</li>
   <li>Open a Pull Request.</li>
 </ol>
+
+## License🪪
+
+
+## Contact📞
