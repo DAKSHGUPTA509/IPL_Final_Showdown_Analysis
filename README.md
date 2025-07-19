@@ -27,6 +27,7 @@ This project provides an in-depth analysis of the Indian Premier League (IPL) fi
 
 ## Directory Structure
 Directory structure:
+<pre>
 └── daxgupta-ipl_final_showdown_analysis/
     ├── README.md
     ├── 2020_Final_DC_vs_MI.ipynb
@@ -43,6 +44,7 @@ Directory structure:
         ├── 2023_Final_GT_vs_CSK.html
         ├── 2024_Final_KKR_vs_SRH.html
         └── 2025_Final_RCB_vs_PBKS.html
+  </pre>
 
 ## Data Sources
 
@@ -113,14 +115,9 @@ The choice of these methods was driven by the need to provide a comprehensive ov
 ## Contributing🤝 
 Contributions are welcome! If you have suggestions for new analyses, improvements to existing ones, or find any issues, please feel free to:
 
-1.Fork the repository.
-
-2.Create a new branch (git checkout -b feature/your-feature-name).
-
-3.Make your changes.
-
-4.Commit your changes (git commit -m 'Add new feature').
-
-5.Push to the branch (git push origin feature/your-feature-name).
-
-6.Open a Pull Request.
+  1.Fork the repository.
+  2.Create a new branch (git checkout -b feature/your-feature-name).
+  3.Make your changes.
+  4.Commit your changes (git commit -m 'Add new feature').
+  5.Push to the branch (git push origin feature/your-feature-name).
+  6.Open a Pull Request.
