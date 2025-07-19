@@ -1,4 +1,4 @@
-# IPL Final Showdown Analysis
+# IPL Final Showdown Analysis🏏
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
@@ -18,7 +18,7 @@ Link to the Live Deployed Site: https://iplfinalshowdownanalysis-ul4to.sevalla.p
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Analysis](#running-the-analysis)
--[Website Preview](#website-preview)
+- [Website Preview](#website-preview)
 - [Future Research](#future-research)
 - [Contributing](#contributing)
 - [License](#license)
@@ -28,7 +28,7 @@ Link to the Live Deployed Site: https://iplfinalshowdownanalysis-ul4to.sevalla.p
 
 This project provides an in-depth analysis of the Indian Premier League (IPL) final matches from the 2020 to 2025 seasons. The primary goal is to extract meaningful insights and trends related to team performance, player statistics, and match outcomes. A user-friendly interface with dropdown navigation enables easy access to individual match analyses, allowing users to quickly compare and contrast different championship games.
 
-## Directory Structure
+## Directory Structure📁
 Directory structure:
 <pre>
 └── daxgupta-ipl_final_showdown_analysis/
@@ -68,6 +68,7 @@ Directory structure:
 
 ## Data Sources
 
+
 The data for this project was sourced from:
 
 *   **Official IPL Website:** Used for basic match information and results.
@@ -85,7 +86,7 @@ The following analytical methods were employed:
 
 The choice of these methods was driven by the need to provide a comprehensive overview of the data and extract meaningful insights that are easily interpretable.
 
-## Key Findings
+## Key Findings🔎
 
 *   **Chennai Super Kings Dominated:** Consistently strong performance in the finals, particularly in the 2021 and 2023 seasons.
 *   **Impact of Key Players:**  Ravindra Jadeja's bowling and batting performance was a significant factor in Chennai Super Kings victories. Specific batsmen also showed consistent performance across multiple finals.
@@ -166,6 +167,8 @@ See the website through this link to get the deeper knowladge: <link href="https
     Your web browser will open, displaying the Jupyter interface. From there, you can click on any `.ipynb` file (e.g., `2020_Final_DC_vs_MI.ipynb`) to open and interact with the analysis.
     </li>
 </ol>
+<br>
+
 
 ## Website Preview
 ![FireShot Capture 002 - 2025_Final_RCB_vs_PBKS -  iplfinalshowdownanalysis-ul4to sevalla page](https://github.com/user-attachments/assets/9417d071-b91f-400e-b1d9-458eec89a321)
