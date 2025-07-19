@@ -18,6 +18,7 @@ Link to the Live Deployed Site: https://iplfinalshowdownanalysis-ul4to.sevalla.p
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Analysis](#running-the-analysis)
+-[Website Preview](#website-preview)
 - [Future Research](#future-research)
 - [Contributing](#contributing)
 - [License](#license)
@@ -47,6 +48,23 @@ Directory structure:
         ├── 2024_Final_KKR_vs_SRH.html
         └── 2025_Final_RCB_vs_PBKS.html
   </pre>
+<br>
+<ul>
+  
+  <li><b>README.md:</b> You are currently reading this file! It provides an overview of the project.</li>
+<li> <b>_Final_.ipynb:</b> These are Jupyter Notebook files. Each notebook contains the Python code, data visualizations, and commentary for the analysis of a specific IPL final match.
+<ul>
+<li> <b>2020_Final_DC_vs_MI.ipynb:</b> Analysis of the 2020 IPL Final between Delhi Capitals and Mumbai Indians.</li>
+<li><b>2021_Final_CSK_vs_KKR.ipynb:</b> Analysis of the 2021 IPL Final between Chennai Super Kings and Kolkata Knight Riders.</li>
+<li><b>2022_Final_GT_vs_RR.ipynb:</b> Analysis of the 2022 IPL Final between Gujarat Titans and Rajasthan Royals.</li>
+<li><b>2023_Final_GT_vs_CSK.ipynb:</b> Analysis of the 2023 IPL Final between Gujarat Titans and Chennai Super Kings.</li>
+<li><b>2024_Final_KKR_vs_SRH.ipynb:</b> Analysis of the 2024 IPL Final between Kolkata Knight Riders and Sunrisers Hyderabad.</li>
+<li><b>2025_Final_RCB_vs_PBKS.ipynb:</b> Analysis of the 2025 IPL Final between Royal Challengers Bangalore and Punjab Kings.</li>
+</ul>
+</li>
+<li><b>convertor.ipynb:</b> This notebook likely contains the script or instructions used to convert the `.ipynb` files into their .html counterparts.</li>
+<li><b>HTML_files/:</b> These are the static HTML exports of the Jupyter Notebooks. They provide a convenient way to view the analysis without needing to set up a Python environment.</li>
+</ul>
 
 ## Data Sources
 
@@ -148,6 +166,11 @@ See the website through this link to get the deeper knowladge: <link href="https
     Your web browser will open, displaying the Jupyter interface. From there, you can click on any `.ipynb` file (e.g., `2020_Final_DC_vs_MI.ipynb`) to open and interact with the analysis.
     </li>
 </ol>
+
+## Website Preview
+![FireShot Capture 002 - 2025_Final_RCB_vs_PBKS -  iplfinalshowdownanalysis-ul4to sevalla page](https://github.com/user-attachments/assets/9417d071-b91f-400e-b1d9-458eec89a321)
+
+
 
 ## Future Research🔬
 
