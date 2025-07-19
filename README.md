@@ -85,6 +85,18 @@ The choice of these methods was driven by the need to provide a comprehensive ov
 
 ## Setup and Execution
 
+To run the Jupyter Notebooks (.ipynb files), you will need:<br>
+<ul>
+<li><link href="https://www.python.org/">Python</link> (3.x recommended)</li>
+
+<li><link href="https://jupyter.org/install">Jupyter Notebook</link>
+
+You can install Jupyter Notebook via pip:
+<pre>pip install notebook</pre>
+
+</li>
+</ul>
+
 ### Prerequisites
 
 *   Python 3.7+
@@ -105,26 +117,34 @@ The choice of these methods was driven by the need to provide a comprehensive ov
 
 ### Run The Analysis 🚀
 
-**Option 1: View HTML Files (Recommended for quick view)**<br>
+**Option 1: View through the Website (Recommended for live view)**<br>
+See the website through this link to get the deeper knowladge: <link href="https://iplfinalshowdownanalysis-ul4to.sevalla.page/">https://iplfinalshowdownanalysis.page/</link>
+
+**Option 2: View HTML Files (Recommended for quick view)**<br>
       Simply navigate to the `HTML_files` directory and open any `.html` file in your web browser.For example, to view the 2020 final analysis:
 
       HTML_files/2020_Final_DC_vs_MI.html 
 
-  **Option 2: Run Jupyter Notebooks**
-    
-    Clone this repository to your local machine:
+  **Option 3: Run Jupyter Notebooks**<br>
+  <ol>
+    <li>Clone this repository to your local machine:
     
     git clone https://github.com/daxgupta/ipl_final_showdown_analysis.git
+  </li>
     
-    Navigate into the cloned directory:
+  <li>Navigate into the cloned directory:
     
     cd ipl_final_showdown_analysis
-    
-    Start the Jupyter Notebook server:
+  </li>
+  
+  <li>Start the Jupyter Notebook server:
     
     jupyter notebook
-    
-    Your web browser will open, displaying the Jupyter interface. From there, you can click on any .ipynb file (e.g., 2020_Final_DC_vs_MI.ipynb) to open and interact with the analysis.
+  </li>
+  <li>
+    Your web browser will open, displaying the Jupyter interface. From there, you can click on any `.ipynb` file (e.g., `2020_Final_DC_vs_MI.ipynb`) to open and interact with the analysis.
+    </li>
+</ol>
 
 ## Future Research
 
