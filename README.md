@@ -104,7 +104,16 @@ The choice of these methods was driven by the need to provide a comprehensive ov
     > *For example: "Run `python app.py` to launch the user interface. Use the dropdown menu to select the IPL final you wish to analyze."*
 
 ### Run The Analysis 🚀
-
+<h2 class="text-2xl sm:text-3xl font-bold text-gray-800 mb-4 rounded-md">
+                Option 1: View HTML Files <span class="text-sm font-normal text-gray-500">(Recommended for quick view)</span>
+            </h2>
+            <p class="text-gray-700 mb-4">
+                Simply navigate to the <span class="font-semibold text-blue-600">HTML_files/</span> directory and open any <span class="font-semibold text-blue-600">.html</span> file in your web browser. For example, to view the 2020 final analysis:
+            </p>
+            <div class="code-block">
+                <!-- HTML comment: Example path for viewing HTML file -->
+                HTML_files/2020_Final_DC_vs_MI.html
+            </div>
 
 ## Future Research
 
