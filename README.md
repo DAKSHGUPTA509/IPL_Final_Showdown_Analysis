@@ -117,10 +117,11 @@ The choice of these methods was driven by the need to provide a comprehensive ov
 
 ## Contributing🤝 
 Contributions are welcome! If you have suggestions for new analyses, improvements to existing ones, or find any issues, please feel free to:
-
-  1.Fork the repository.<br>
-  2.Create a new branch (git checkout -b feature/your-feature-name).<br>
-  3.Make your changes.<br>
-  4.Commit your changes (git commit -m 'Add new feature').<br>
-  5.Push to the branch (git push origin feature/your-feature-name).<br>
-  6.Open a Pull Request.<br>
+<ol>
+  <li>Fork the repository.</li>
+  <li>Create a new branch (git checkout -b feature/your-feature-name).</li>
+  <li>Make your changes.</li>
+  <li>Commit your changes (git commit -m 'Add new feature').</li>
+  <li>Push to the branch (git push origin feature/your-feature-name).</li>
+  <li>Open a Pull Request.</li>
+</ol>
